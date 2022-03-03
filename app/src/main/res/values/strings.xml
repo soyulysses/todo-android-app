@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Recordatorios</string>
+    <string name="nada_aun">No hay nada aún.</string>
+    <string name="gafas_kamoji_1">(⌐■_■)</string>
+    <string name="gafas_kamoji_0"><![CDATA[( •_•)>⌐■-■]]></string>
+    <string name="feliz_kamoji_1">ᕕ( ᐖ )ᕗ</string>
+    <string name="feliz_kamoji_0">ᕕ( ᐛ )ᕗ</string>
+    <string name="importante">Importante</string>
+    <string name="recordatorio">Recordatorio</string>
+    <string name="icono">Icono</string>
+    <string name="titulo_vacio">El título está vacío.</string>
+    <string name="recordatorio_cambiado">Recordatorio cambiado correctamente</string>
+    <string name="recordatorio_anyadido">Recordatorio añadido</string>
+    <string name="recordatorio_eliminado">Recordatorio eliminado</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="eliminar_pregunta">¿Estás seguro de que deseas eliminar el recordatorio?</string>
+    <string name="recordatorios">Recordatorios</string>
+    <string name="importantes">Importante</string>
+    <string name="titulo">Título</string>
+    <string name="descripcion">Descripción</string>
+    <string name="anyadir">Añadir</string>
+    <string name="titulo_obligatorio">Título*</string>
+    <string name="modificar">Modificar</string>
+    <string name="cancelar">Cancelar</string>
+
+    <string-array name="array_emojis">
+        <item>Ninguno</item>
+        <item>Bullseye</item>
+        <item>Martial arts uniform</item>
+        <item>Party popper</item>
+        <item>Pinyata</item>
+        <item>Sparkles</item>
+        <item>Sports medal</item>
+        <item>Teddy bear</item>
+        <item>Ticket</item>
+        <item>Video game</item>
+        <item>Face in clouds</item>
+        <item>Face with medical mask</item>
+        <item>Face with tears of joy</item>
+        <item>Ludly crying face</item>
+        <item>Sleeping face</item>
+        <item>Smiling face with sunglasses</item>
+    </string-array>
+</resources>

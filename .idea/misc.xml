@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Gamer/AndroidStudioProjects/Android_Projects_FUNG2122/actividad_final/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3728205128205128" />
+        <entry key="..\:/Users/Gamer/AndroidStudioProjects/Android_Projects_FUNG2122/actividad_final/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3728205128205128" />
+        <entry key="..\:/Users/Gamer/AndroidStudioProjects/Android_Projects_FUNG2122/actividad_final/app/src/main/res/drawable/round_add_task_24.xml" value="0.3728205128205128" />
+        <entry key="..\:/Users/Gamer/AndroidStudioProjects/Android_Projects_FUNG2122/actividad_final/app/src/main/res/drawable/tab_background.xml" value="0.3728205128205128" />
+        <entry key="..\:/Users/Gamer/AndroidStudioProjects/Android_Projects_FUNG2122/actividad_final/app/src/main/res/drawable/tab_selector.xml" value="0.3728205128205128" />
+        <entry key="..\:/Users/Gamer/AndroidStudioProjects/Android_Projects_FUNG2122/actividad_final/app/src/main/res/drawable/test.xml" value="0.24479166666666666" />
+        <entry key="..\:/Users/Gamer/AndroidStudioProjects/Android_Projects_FUNG2122/actividad_final/app/src/main/res/layout/activity_add_to_do_item.xml" value="0.33" />
+        <entry key="..\:/Users/Gamer/AndroidStudioProjects/Android_Projects_FUNG2122/actividad_final/app/src/main/res/layout/activity_edit_to_do_item.xml" value="0.67" />
+        <entry key="..\:/Users/Gamer/AndroidStudioProjects/Android_Projects_FUNG2122/actividad_final/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Gamer/AndroidStudioProjects/Android_Projects_FUNG2122/actividad_final/app/src/main/res/layout/activity_read_to_do.xml" value="0.5" />
+        <entry key="..\:/Users/Gamer/AndroidStudioProjects/Android_Projects_FUNG2122/actividad_final/app/src/main/res/layout/fragment_main_to_do_list.xml" value="0.37395833333333334" />
+        <entry key="..\:/Users/Gamer/AndroidStudioProjects/Android_Projects_FUNG2122/actividad_final/app/src/main/res/layout/recordatorio_item.xml" value="0.75" />
+        <entry key="..\:/Users/Gamer/AndroidStudioProjects/Android_Projects_FUNG2122/actividad_final/app/src/main/res/menu/menu_recordatorio_item.xml" value="0.33" />
+        <entry key="..\:/Users/navarro19708/AndroidStudioProjects/Android_Projects_FUNG2122/actividad_final/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/navarro19708/AndroidStudioProjects/Android_Projects_FUNG2122/actividad_final/app/src/main/res/drawable/ic_launcher_background.xml" value="0.33" />
+        <entry key="..\:/Users/navarro19708/AndroidStudioProjects/Android_Projects_FUNG2122/actividad_final/app/src/main/res/layout/activity_add_to_do_item.xml" value="0.2" />
+        <entry key="..\:/Users/navarro19708/AndroidStudioProjects/Android_Projects_FUNG2122/actividad_final/app/src/main/res/layout/activity_edit_to_do_item.xml" value="0.25" />
+        <entry key="..\:/Users/navarro19708/AndroidStudioProjects/Android_Projects_FUNG2122/actividad_final/app/src/main/res/layout/fragment_main_to_do_list.xml" value="0.5" />
+        <entry key="..\:/Users/navarro19708/AndroidStudioProjects/Android_Projects_FUNG2122/actividad_final/app/src/main/res/layout/recordatorio_item.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

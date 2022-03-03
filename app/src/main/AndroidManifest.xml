@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="io.ulysses.android.actividad_final">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:screenOrientation="sensorPortrait"
+        android:theme="@style/Theme.ActividadFinal"
+        android:fullBackupContent="@xml/backup_descriptor">
+        <activity
+            android:screenOrientation="sensorPortrait"
+            android:name=".EditToDoItemActivity"
+            android:exported="true"
+            android:label="Editar Recordatorio"
+            android:parentActivityName=".MainActivity"/>
+        <activity
+            android:screenOrientation="sensorPortrait"
+            android:name=".ReadToDoActivity"
+            android:exported="true"
+            android:label="Recordatorio"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:screenOrientation="sensorPortrait"
+            android:name=".AddToDoItemActivity"
+            android:exported="true"
+            android:label="Añadir Recordatorio"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:screenOrientation="sensorPortrait"
+            android:name=".MainActivity"
+            android:exported="true"
+            android:theme="@style/Theme.ActividadFinal.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
