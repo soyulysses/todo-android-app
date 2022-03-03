@@ -4,4 +4,4 @@ Esta es una aplicación de recordatorios / lista de cosas que hacer hecha en And
 
 Imagen de la Aplicación:
 
-![Interfaz de la Aplicación](https://i.imgur.com/aqQ4dBA.png)
+![Interfaz de la Aplicación](https://i.imgur.com/aqQ4dBA.png?1)
